@@ -1,0 +1,44 @@
+
+#body{
+    width:90%;
+}
+nav{
+    width:16%;
+}
+article{
+    width: 40%;
+    margin-right:10px;
+}
+.aside{
+    float: left;
+    width:40%;
+    height:100%;
+    min-height: 580px;
+    background:#d3d3d3;
+    border:5px solid #c0c0c0;
+    border-radius: 1%;
+ 
+}
+ #content{
+     width:80%;
+     height: 100%;
+     margin:0 auto;
+ }
+ #content header h1{
+     text-align: left;
+     margin-left: 0;
+ }
+ #content header{
+     border-bottom: 1px solid black;
+ }
+ section{
+     margin-top: 20px;
+ }
+ section h3{
+     border-bottom:0.5px solid black;
+     font-size:20px;
+ }
+ #content section p{
+     text-align: left;
+     width:100%;
+ }
