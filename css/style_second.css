@@ -8,6 +8,7 @@ nav{
 article{
     width: 40%;
     margin-right:10px;
+    min-height: 580px;
 }
 .aside{
     float: left;
@@ -32,11 +33,44 @@ article{
      border-bottom: 1px solid black;
  }
  section{
-     margin-top: 20px;
+     margin-top: 30px;
  }
+.skills{
+    border:1px solid red;
+     border-radius: 3%;
+     margin-top: 10px;
+     height: 20px;
+    
+ }
+.skills h5{
+     float:left;
+     background-color: green;
+     height: 100%;
+     width: 50%;
+     
+ }
+#content .skills p{
+    float:right;
+    text-align: right;
+    width: 40%;
+    height: 100%;
+    
+ }
+ 
  section h3{
      border-bottom:0.5px solid black;
      font-size:20px;
+     line-height: 1;
+     padding-bottom: 10px;
+ }
+
+ 
+ section img{
+     width:20px;
+     height:20px;
+     background-color: #d3d3d3;
+     margin-right: 10px;
+     float:left;
  }
  #content section p{
      text-align: left;
