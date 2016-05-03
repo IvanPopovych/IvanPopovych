@@ -20,16 +20,16 @@ article{
     border-radius: 1%;
  
 }
- #content{
+ .content{
      width:80%;
      height: 100%;
      margin:0 auto;
  }
- #content header h1{
+ .content header h1, .aside header h1{
      text-align: left;
      margin-left: 0;
  }
- #content header{
+ .content header{
      border-bottom: 1px solid black;
  }
  section{
@@ -49,7 +49,7 @@ article{
      width: 50%;
      
  }
-#content .skills p{
+.content .skills p{
     float:right;
     text-align: right;
     width: 40%;
@@ -72,7 +72,7 @@ article{
      margin-right: 10px;
      float:left;
  }
- #content section p{
+ .content section p{
      text-align: left;
      width:100%;
  }
