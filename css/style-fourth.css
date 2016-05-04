@@ -1,0 +1,14 @@
+section img{
+    border-left:2px solid green;
+    padding-left: 15px;
+}
+section h3{
+    color:green;
+    border-bottom:none;
+}
+#education p,#work-experience p{
+    border:2px solid green;
+    height: 60px;
+    margin-bottom: 30px;
+    background-color: grey;
+}

@@ -8,13 +8,12 @@ nav{
 article{
     width: 40%;
     margin-right:10px;
-    min-height: 580px;
+    height: 600px;
 }
 .aside{
     float: left;
     width:40%;
-    height:100%;
-    min-height: 580px;
+    height:600px;
     background:#d3d3d3;
     border:5px solid #c0c0c0;
     border-radius: 1%;
@@ -76,3 +75,4 @@ article{
      text-align: left;
      width:100%;
  }
+ 
