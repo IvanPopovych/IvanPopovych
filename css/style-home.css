@@ -1,11 +1,11 @@
 @import url("../css/reset.css");
 
 body{
-    background-image:url(../images/img.jpg);
+    background-image:url(../images/background-image.jpg);
     background-size:cover;
     background-attachment: fixed; 
     font:13px/1.4 Arial,Verdana,Tahoma sans-serif;
-    min-width: 960px;
+    ccmin-width: 960px;
     max-width: 1366px;
     width: 100%;
 }
@@ -36,11 +36,10 @@ nav a:hover{
     background-color: red;
     cursor: pointer;
 }
-
 article{
    width:70%;
    height:100%;
-   min-height: 550px;
+   min-height: 620px;
    background:#d3d3d3;
    border-radius: 1%;
    float:left;
@@ -110,5 +109,6 @@ footer img{
     width: 50px;
     height: 50px;
 }
+
 
 

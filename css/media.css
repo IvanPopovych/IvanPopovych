@@ -1,0 +1,84 @@
+ nav{
+      display:none;
+  }
+  #body{
+      width: 65%;
+      height: 300px;
+  }
+  article{
+      width: 98%;
+      margin:0 auto 20px;
+  }
+  #skills-2-page,#portfolio-3-page{
+    display:block;
+    height: 620px;
+}
+
+.aside{
+    float: left;
+    width:98%;
+    height:620px;
+    background:#d3d3d3;
+    border:5px solid #c0c0c0;
+    border-radius: 1%;
+     margin-bottom: 20px;
+}
+ .content{
+     width:80%;
+     height: 100%;
+     margin:0 auto;
+ }
+ .content header h1, .aside header h1{
+     text-align: left;
+     margin-left: 0;
+ }
+ .content header{
+     border-bottom: 1px solid black;
+ }
+ section{
+     margin-top: 30px;
+ }
+.skills{
+    border:1px solid red;
+     border-radius: 3%;
+     margin-top: 10px;
+     height: 20px;
+    
+ }
+.skills h5{
+     float:left;
+     background-color: green;
+     height: 100%;
+     width: 50%;
+     
+ }
+.content .skills p{
+    float:right;
+    text-align: right;
+    width: 40%;
+    height: 100%;
+    
+ }
+ 
+ section h3{
+     border-bottom:0.5px solid black;
+     font-size:20px;
+     line-height: 1;
+     padding-bottom: 10px;
+ }
+
+ 
+ section img{
+     width:20px;
+     height:20px;
+     background-color: #d3d3d3;
+     margin-right: 10px;
+     float:left;
+ }
+ .content section p{
+     text-align: left;
+     width:100%;
+ }
+ 
+
+ 
