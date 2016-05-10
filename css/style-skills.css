@@ -1,18 +1,18 @@
 
-#body{
-    width:90%;
+#home,#skills2{
+    width:95%;
 }
 nav{
     width:16%;
 }
 article{
-    width: 40%;
+    width: 38%;
     margin-right:10px;
     height: 620px;
 }
 .aside{
     float: left;
-    width:40%;
+    width:38%;
     height:620px;
     background:#d3d3d3;
     border:5px solid #c0c0c0;
@@ -24,7 +24,7 @@ article{
      height: 100%;
      margin:0 auto;
  }
- .content header h1, .aside header h1{
+ .content header h1{
      text-align: left;
      margin-left: 0;
  }
@@ -75,6 +75,14 @@ article{
      text-align: left;
      width:100%;
  }
+ 
+ #skills2{
+     display: block;
+ }
+ #portfolio2,#resume2,#contact2{
+    display: none;
+}
+
  
  
  

@@ -3,7 +3,7 @@ iframe{
     height: 200px;
 }
 .aside{
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 input{
     margin-top:20px;
@@ -27,4 +27,11 @@ button{
 }
 form{
     width: 100%;
+}
+
+#contact2{
+     display: block;
+ }
+ #portfolio2,#resume2,#skills2{
+    display: none;
 }

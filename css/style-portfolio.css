@@ -37,5 +37,13 @@
 
 
 .aside{
-     overflow-y: scroll;
+     overflow-y: auto;
 }
+
+#portfolio2{
+     display: block;
+ }
+ #skills2,#resume2,#contact2{
+    display: none;
+}
+

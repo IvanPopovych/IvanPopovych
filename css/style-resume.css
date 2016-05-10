@@ -11,4 +11,14 @@ section h3{
     height: 60px;
     margin-bottom: 30px;
     background-color: grey;
+    padding-left:5px ;
+    padding-top: 5px;
+    
+}
+
+#resume2{
+     display: block;
+ }
+ #portfolio2,#skills2,#contact2{
+    display: none;
 }

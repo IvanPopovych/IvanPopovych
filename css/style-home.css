@@ -5,11 +5,15 @@ body{
     background-size:cover;
     background-attachment: fixed; 
     font:13px/1.4 Arial,Verdana,Tahoma sans-serif;
-    ccmin-width: 960px;
+    min-width: 500px;
     max-width: 1366px;
     width: 100%;
+    overflow-y: auto;
 }
-#body{
+p{
+    font-family: Comic Sans MS, cursive;
+}
+#home{
     width:55%;
     margin:25px auto 0;
 }
@@ -109,6 +113,13 @@ footer img{
     width: 50px;
     height: 50px;
 }
+
+#skills2,#portfolio2,#resume2,#contact2{
+    display: none;
+}
+
+
+
 
 
 

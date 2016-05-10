@@ -1,4 +1,4 @@
-  #skills2,#portfolio2,#resume2,#contact2{
+ #skills2,#portfolio2,#resume2,#contact2{
     display: block;
    }    
    
@@ -7,7 +7,7 @@
   }
   
   #home,#skills2,#portfolio2,#resume2,#contact2{
-      width: 60%;
+      width: 80%;
       height: 300px;
       margin:25px auto 0;
   }
