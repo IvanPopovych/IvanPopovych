@@ -17,12 +17,5 @@ $(function () {
 		});
 	
 		event.preventDefault();
-	});
-});
-
-
-
-
-
-
-
+	})
+})
